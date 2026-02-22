@@ -1,0 +1,8 @@
+1,FA25,{1: 8},{},None,None
+1,FA26,{},{},None,None
+1,FA30,{},{},None,None
+2,FA25,{},{},None,None
+2,FA26,{},{},None,None
+3,FA25,{},{},None,None
+3,FA26,{},{},None,None
+3,FA30,{},{},None,None

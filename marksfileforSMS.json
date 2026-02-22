@@ -1,0 +1,56 @@
+{
+    "1-FA25": {
+        "teacher_id": 1,
+        "reg_no": "FA25",
+        "marks": {
+            "quiz": {
+                "1": 6,
+                "2": 8,
+                "3": 9
+            },
+            "assignment": {
+                "1": 8,
+                "2": 9
+            },
+            "mid": 23,
+            "final": 40
+        }
+    },
+    "1-FA26": {
+        "teacher_id": 1,
+        "reg_no": "FA26",
+        "marks": {
+            "quiz": {},
+            "assignment": {},
+            "mid": null,
+            "final": null
+        }
+    },
+    "2-FA25": {
+        "teacher_id": 2,
+        "reg_no": "FA25",
+        "marks": {
+            "quiz": {
+                "1": 7,
+                "2": 8,
+                "3": 9
+            },
+            "assignment": {
+                "1": 5,
+                "3": 9
+            },
+            "mid": 23,
+            "final": 40
+        }
+    },
+    "2-FA26": {
+        "teacher_id": 2,
+        "reg_no": "FA26",
+        "marks": {
+            "quiz": {},
+            "assignment": {},
+            "mid": null,
+            "final": null
+        }
+    }
+}
